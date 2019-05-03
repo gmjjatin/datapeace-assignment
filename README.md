@@ -35,11 +35,7 @@ This is code repo for an API with which CRUDS ( create ,read ,update , delete , 
         ```bash
             $ pip install -r requirements.txt
         ```
-    4. Make those migrations work
-        ```bash
-            $ python manage.py makemigrations
-            $ python manage.py migrate
-        ```
+    
 
 * #### Run It
     Fire up the server using this one simple command:
