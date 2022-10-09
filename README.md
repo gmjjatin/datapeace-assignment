@@ -10,7 +10,7 @@ This is code repo for an API with which CRUDS ( create ,read ,update , delete , 
 * Application Logic - Python
 * Framework - Django 
 * Database - SQLite3
-* UI - Bootstrap , HTML , Jqeury , javascript
+* UI - Bootstrap , HTML , Jquery , javascript
 * Demo data - http://demo9197058.mockable.io/users
 
 ## Installation
